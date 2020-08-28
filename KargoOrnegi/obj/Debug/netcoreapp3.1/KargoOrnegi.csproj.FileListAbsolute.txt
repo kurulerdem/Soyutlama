@@ -1,0 +1,12 @@
+/Users/Erdem/Projects/KargoOrnegi/KargoOrnegi/bin/Debug/netcoreapp3.1/KargoOrnegi.deps.json
+/Users/Erdem/Projects/KargoOrnegi/KargoOrnegi/bin/Debug/netcoreapp3.1/KargoOrnegi.runtimeconfig.json
+/Users/Erdem/Projects/KargoOrnegi/KargoOrnegi/bin/Debug/netcoreapp3.1/KargoOrnegi.runtimeconfig.dev.json
+/Users/Erdem/Projects/KargoOrnegi/KargoOrnegi/bin/Debug/netcoreapp3.1/KargoOrnegi.dll
+/Users/Erdem/Projects/KargoOrnegi/KargoOrnegi/bin/Debug/netcoreapp3.1/KargoOrnegi.pdb
+/Users/Erdem/Projects/KargoOrnegi/KargoOrnegi/obj/Debug/netcoreapp3.1/KargoOrnegi.csprojAssemblyReference.cache
+/Users/Erdem/Projects/KargoOrnegi/KargoOrnegi/obj/Debug/netcoreapp3.1/KargoOrnegi.AssemblyInfoInputs.cache
+/Users/Erdem/Projects/KargoOrnegi/KargoOrnegi/obj/Debug/netcoreapp3.1/KargoOrnegi.AssemblyInfo.cs
+/Users/Erdem/Projects/KargoOrnegi/KargoOrnegi/obj/Debug/netcoreapp3.1/KargoOrnegi.csproj.CoreCompileInputs.cache
+/Users/Erdem/Projects/KargoOrnegi/KargoOrnegi/obj/Debug/netcoreapp3.1/KargoOrnegi.dll
+/Users/Erdem/Projects/KargoOrnegi/KargoOrnegi/obj/Debug/netcoreapp3.1/KargoOrnegi.pdb
+/Users/Erdem/Projects/KargoOrnegi/KargoOrnegi/obj/Debug/netcoreapp3.1/KargoOrnegi.genruntimeconfig.cache
